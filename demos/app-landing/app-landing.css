@@ -339,7 +339,7 @@
 	border-bottom: 1px dotted #AAA;
 }
 
-.app-footer-features i {
+.app-footer-features em {
 	position: relative;
 	top: 8px;
 	width: 30px;
